@@ -1,0 +1,7 @@
+/cache/*
+!/cache/.gitkeep
+/library/*
+!/library/.gitkeep
+/views/cache/*
+!/views/cache/.gitkeep
+.env
